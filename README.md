@@ -73,7 +73,7 @@ dataset = load_dataset("sacrificialpancakes/synthetic_demographics_seed")["train
    ```
 2. Run the script:
    ```bash
-   python analysis.py
+   python demographic.py
    ```
 
 ## Visualization Examples
