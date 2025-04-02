@@ -1,5 +1,7 @@
 # Data Analysis with Python
 
+<img src="screenshots/1.gif" width="550">
+
 ## Overview
 This repository contains Python scripts for analyzing synthetic demographic data using **Pandas, NumPy, Seaborn, and Matplotlib**. The dataset includes information on race, gender, education, employment, and more.
 
